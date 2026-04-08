@@ -49,7 +49,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -59,7 +59,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },        {
   name: "Lyrica",
@@ -68,7 +68,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -78,7 +78,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -88,7 +88,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -98,7 +98,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -108,7 +108,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -118,7 +118,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -128,7 +128,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -138,7 +138,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -148,7 +148,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -158,7 +158,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -168,7 +168,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -178,7 +178,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -188,7 +188,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -198,7 +198,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["what"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -208,7 +208,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -218,7 +218,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men", "nb", "fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -228,7 +228,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -238,7 +238,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -248,7 +248,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -258,7 +258,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["nb", "fem", "men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	
@@ -269,7 +269,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -279,7 +279,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
         {
@@ -289,7 +289,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -299,7 +299,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -309,7 +309,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -319,7 +319,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -329,7 +329,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -339,7 +339,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -349,7 +349,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["what"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -359,7 +359,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -369,7 +369,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -379,7 +379,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -389,7 +389,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["nb"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -399,7 +399,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["what"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -409,7 +409,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men", "nb", "fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -419,7 +419,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -429,7 +429,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -439,7 +439,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
     {
@@ -449,7 +449,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["what"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
 },
           {
@@ -459,7 +459,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -469,7 +469,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -479,7 +479,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
 },
           {
@@ -489,7 +489,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -499,7 +499,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -509,7 +509,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -519,7 +519,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
           {
@@ -529,7 +529,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["og"],
 	gender: ["men"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 //Collab Heroes 56
@@ -540,7 +540,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -550,7 +550,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["gun"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -560,7 +560,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -570,7 +570,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -580,7 +580,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -590,7 +590,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -600,7 +600,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -610,7 +610,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -620,7 +620,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -630,7 +630,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -670,7 +670,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -680,7 +680,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -690,7 +690,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -700,7 +700,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -710,7 +710,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["nb"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -720,7 +720,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -730,7 +730,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -740,7 +740,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -750,7 +750,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -760,7 +760,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -770,7 +770,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -780,7 +780,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -790,7 +790,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -800,7 +800,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["tank"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -810,7 +810,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -820,7 +820,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -830,7 +830,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -840,7 +840,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -850,7 +850,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -860,7 +860,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -870,7 +870,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["nb"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -880,7 +880,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -890,7 +890,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -900,7 +900,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -910,7 +910,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -920,7 +920,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -930,7 +930,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -940,7 +940,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -950,7 +950,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -960,7 +960,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["fem"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -970,7 +970,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -980,7 +980,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -990,7 +990,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -1000,7 +1000,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -1010,7 +1010,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -1050,7 +1050,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["spr"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -1060,7 +1060,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["men"],
 	role: ["atk"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   },
 	          {
@@ -1070,7 +1070,7 @@ dataSet[dataSetVersion].characterData = [
     type: ["co"],
 	gender: ["nb"],
 	role: ["gun"],
-	pair: ["yes"],
+	pair: ["yes", "no"],
    }
   }
 
