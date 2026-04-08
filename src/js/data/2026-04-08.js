@@ -163,7 +163,7 @@ dataSet[dataSetVersion].characterData = [
   },
           {
   name: "Violetta Noire",
-  img: "image",
+  img: "https://64.media.tumblr.com/fae7137e628cdaf428cfdf5006a56968/3465321d8070e9ee-7b/s400x600/0264549d3928fe8378900b229d43ea849f2e4a29.png",
   opts: {
     type: ["og"],
 	gender: ["fem"],
