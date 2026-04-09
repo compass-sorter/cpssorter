@@ -662,7 +662,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["gun"],
 	pair: ["yes", "no"],
-	extra: ["blonde", "twink", "drd"],
+	extra: ["blonde", "drd"],
    }
   },
 	          {
