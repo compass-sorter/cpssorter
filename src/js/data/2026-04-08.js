@@ -670,7 +670,7 @@ dataSet[dataSetVersion].characterData = [
   img: "https://64.media.tumblr.com/9280179b1efb492917a6d9244ed9bcec/3465321d8070e9ee-54/s400x600/497139a0918a2879a18ca447d55c6cd36c8f332d.png",
   opts: {
     type: ["co"],
-	gender: ["fem"],
+	gender: ["men"],
 	role: ["tank"],
 	pair: ["yes", "no"],
 	extra: ["blonde", "twink", "rip", "drd"],
