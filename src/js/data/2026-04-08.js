@@ -587,8 +587,8 @@ dataSet[dataSetVersion].characterData = [
   img: "https://64.media.tumblr.com/9a8ec9bee97f132349b0d84c3c6b8cb1/eb19f84d84606eed-0d/s400x600/0a8fd1b27d932b507109ac9b3df530b3cbeccc67.png",
   opts: {
     type: ["co"],
-	gender: ["gun"],
-	role: ["atk"],
+	gender: ["fem"],
+	role: ["gun"],
 	pair: ["yes", "no"],
    }
   },
@@ -608,7 +608,7 @@ dataSet[dataSetVersion].characterData = [
   img: "https://64.media.tumblr.com/53aae1bb0aeb8712ec9ee998962bedd7/20077b7569494904-77/s400x600/792088522dc2860db2cc4186feed7dcbad5992b3.png",
   opts: {
     type: ["co"],
-	gender: ["fem"],
+	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
    }
@@ -648,7 +648,7 @@ dataSet[dataSetVersion].characterData = [
   img: "https://64.media.tumblr.com/b23fd30f75070a84bd56c513527a11c8/20077b7569494904-64/s400x600/b44bd3af2062d719a6a195075b9844a2d77b0c48.png",
   opts: {
     type: ["co"],
-	gender: ["fem"],
+	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
 	extra: ["blonde", "twink"],
