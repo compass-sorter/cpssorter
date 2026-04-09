@@ -25,8 +25,7 @@ dataSet[dataSetVersion].options = [
     key: "type",
     tooltip: "Check this to restrict if you want collab heroes or not.",
     checked: false,
-    sub: [ { name: "Original Heroes", key: "og" }, { name: "Collab Heroes", key: "co" }
-    ]
+    sub: [ { name: "Original Heroes", key: "og" }, { name: "Collab Heroes", key: "co" } ]
   },
   {
     name: "Allow Pairs?",
@@ -37,7 +36,16 @@ dataSet[dataSetVersion].options = [
       { name: "Keep Pairs Together", key: "yes" },
       { name: "Seperate Pairs", key: "no" },
 	 ]
-  }
+  },
+   {
+    name: "Extra fun filters",
+    key: "extra",
+    tooltip: "It's a pepperoni surprise that will help you organize even worse!",
+    checked: false,
+    sub: [
+	{ name: "Robots", tooltip: "anyone in this thread got a robot bias", key: "drd" }, { name: "Gamers", tooltip: "What's up gamers", key: "virgin" }, { name: "Pink", tooltip: "do you feel bonita?", key: "pink" }, { name: "Blondes", tooltip: "why are there so many...?", key: "blonde" }, { name: "Canonically dead. (Includes collab hero spoilers!)", tooltip: "REST IN PEACE MY GRANNY SHE GOT HIT BY A BAZOOKA", key: "rip" }, { name: "Widows (Includes collab hero spoilers!)", tooltip: "Those that have dead lovers", key: "widow" }, { name: "Twinks", tooltip: "i'm so tired of these ikemens in my game bro.", key: "twink" }
+    ]
+  },
 ];
 
 dataSet[dataSetVersion].characterData = [
@@ -50,6 +58,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["twink", "blonde", "virgin"],
    }
   },
         {
@@ -69,6 +78,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["rip", "pink"],
    }
   },
         {
@@ -99,6 +109,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
         {
@@ -109,6 +120,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["twink", "blonde", "virgin"],
    }
   },
         {
@@ -119,6 +131,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["pink", "widow"],
    }
   },
           {
@@ -129,6 +142,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["drd"],
    }
   },
           {
@@ -139,6 +153,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
           {
@@ -149,6 +164,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
           {
@@ -159,6 +175,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
           {
@@ -169,6 +186,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
           {
@@ -199,6 +217,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["what"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
           {
@@ -229,6 +248,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["pink"],
    }
   },
           {
@@ -249,6 +269,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin"],
    }
   },
         {
@@ -259,6 +280,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["nb", "fem", "men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
 	
@@ -270,6 +292,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
         {
@@ -300,6 +323,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
           {
@@ -310,6 +334,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["widow", "blonde"],
    }
   },
           {
@@ -320,6 +345,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["pink"],
    }
   },
           {
@@ -340,6 +366,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["drd"],
    }
   },
           {
@@ -350,6 +377,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["what"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
           {
@@ -360,6 +388,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
           {
@@ -380,6 +409,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
           {
@@ -390,6 +420,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["nb"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["drd"],
    }
   },
           {
@@ -400,6 +431,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["what"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
           {
@@ -410,6 +442,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men", "nb", "fem"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "twink", "pink"],
    }
   },
           {
@@ -420,6 +453,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
           {
@@ -450,6 +484,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["what"],
 	pair: ["yes", "no"],
+	extra: ["drd"],
    }
 },
           {
@@ -470,6 +505,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
           {
@@ -480,6 +516,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
 },
           {
@@ -490,6 +527,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["pink", "blonde"],
    }
   },
           {
@@ -541,6 +579,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["widow"],
    }
   },
 	          {
@@ -561,6 +600,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["drd"],
    }
   },
 	          {
@@ -611,6 +651,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "twink"],
    }
   },
 	          {
@@ -621,6 +662,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "twink", "drd"],
    }
   },
 	          {
@@ -631,6 +673,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "twink", "rip", "drd"],
    }
   },
 	          {
@@ -641,6 +684,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem", "men"],
 	role: ["spr"],
 	pair: ["yes"],
+	extra: ["rip"],
    }
   },
 	          {
@@ -651,6 +695,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["no"],
+	extra: ["rip"],
    }
   },
 	          {
@@ -661,6 +706,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["no"],
+	extra: ["blonde", "rip"],
    }
   },
 	          {
@@ -671,6 +717,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["rip"],
    }
   },
 	          {
@@ -701,6 +748,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["widow"],
    }
   },
 	          {
@@ -711,6 +759,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["nb"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "pink"],
    }
   },
 	          {
@@ -721,6 +770,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["rip", "virgin", "twink"],
    }
   },
 	          {
@@ -731,6 +781,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "rip"],
    }
   },
 	          {
@@ -741,6 +792,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "widow", "rip", "twink"],
    }
   },
 	          {
@@ -761,6 +813,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
 	          {
@@ -771,6 +824,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink"],
    }
   },
 	          {
@@ -781,6 +835,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink"],
    }
   },
 	          {
@@ -791,6 +846,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
 	          {
@@ -811,6 +867,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink", "widow"],
    }
   },
 	          {
@@ -821,6 +878,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["virgin"],
    }
   },
 	          {
@@ -831,6 +889,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink", "widow"],
    }
   },
 	          {
@@ -841,6 +900,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin"],
    }
   },
 	          {
@@ -851,6 +911,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["pink"],
    }
   },
 	          {
@@ -861,6 +922,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["drd"],
    }
   },
 	          {
@@ -881,6 +943,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["virgin"],
    }
   },
 	          {
@@ -891,6 +954,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["twink"],
    }
   },
 	          {
@@ -901,6 +965,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink"],
    }
   },
 	          {
@@ -921,6 +986,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["rip", "twink", "virgin", "drd"],
    }
   },
 	          {
@@ -931,6 +997,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink", "blonde", "widow"],
    }
   },
 	          {
@@ -941,6 +1008,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "blonde", "rip"],
    }
   },
 	          {
@@ -951,6 +1019,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["gun"],
 	pair: ["yes", "no"],
+	extra: ["virgin"],
    }
   },
 	          {
@@ -961,6 +1030,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["blonde"],
    }
   },
 	          {
@@ -971,6 +1041,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["widow"],
    }
   },
 	          {
@@ -981,6 +1052,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink"],
    }
   },
 	          {
@@ -991,6 +1063,8 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink"],
+	
    }
   },
 	          {
@@ -1001,6 +1075,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink"],
    }
   },
 	          {
@@ -1011,6 +1086,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["virgin", "twink"],
    }
   },
 	          {
@@ -1021,6 +1097,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["yes"],
+	extra: ["blonde", "virgin"],
    }
   },
 	          {
@@ -1031,6 +1108,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["no"],
+	extra: ["blonde", "virgin"],
    }
   },
 	          {
@@ -1041,6 +1119,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["tank"],
 	pair: ["no"],
+	extra: ["virgin"],
    }
   },
 	          {
@@ -1051,6 +1130,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "twink"],
    }
   },
 	          {
@@ -1061,6 +1141,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	extra: ["blonde", "twink", "widow"],
    }
   },
 	          {
