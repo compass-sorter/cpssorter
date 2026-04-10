@@ -28,7 +28,7 @@ dataSet[dataSetVersion].options = [
     sub: [ { name: "Original Heroes", key: "og" }, { name: "Collab Heroes", key: "co" } ]
   },
   {
-    name: "Allow Pairs?",
+    name: "Filter Pairs?<br>(please select this if you want to not get techinal dupes of characters!)",
 	key: "pair",
     tooltip: "Check this if you want heroes considered pairs to be restricted to one or to seperate them.",
 	checked: false,
