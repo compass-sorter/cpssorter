@@ -570,6 +570,16 @@ dataSet[dataSetVersion].characterData = [
 	pair: ["yes", "no"],
    }
   },
+          {
+  name: "Charles Richter",
+  img: "https://64.media.tumblr.com/bb749adb9d50b71c7445baa1a390de14/3465321d8070e9ee-e6/s400x600/caa979fe9795915e1a971e1d95ed2385cddc2168.png",
+  opts: {
+    type: ["og"],
+	gender: ["men"],
+	role: ["atk"],
+	pair: ["yes", "no"],
+   }
+  },
 //Collab Heroes 56
           {
   name: "Sol Badguy",
