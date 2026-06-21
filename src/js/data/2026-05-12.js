@@ -572,7 +572,7 @@ dataSet[dataSetVersion].characterData = [
   },
           {
   name: "Charles Richter",
-  img: "https://64.media.tumblr.com/bb749adb9d50b71c7445baa1a390de14/3465321d8070e9ee-e6/s400x600/caa979fe9795915e1a971e1d95ed2385cddc2168.png",
+  img: "https://64.media.tumblr.com/b8319a0d387c7a5f1062232c2dc24249/b0cb3573a1b7fd0e-a0/s400x600/a061fdad9fb3c1b0bddb378fe29fefdc49f7591a.png",
   opts: {
     type: ["og"],
 	gender: ["men"],
