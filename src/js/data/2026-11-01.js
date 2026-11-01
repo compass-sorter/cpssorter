@@ -589,6 +589,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["atk"],
 	pair: ["yes", "no"],
+	  extra: ["pink"],
    }
   },
   
@@ -1196,6 +1197,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["fem"],
 	role: ["spr"],
 	pair: ["yes", "no"],
+	  extra: ["virgin"],
    }
   },
 
@@ -1208,6 +1210,7 @@ dataSet[dataSetVersion].characterData = [
 	gender: ["men"],
 	role: ["tank"],
 	pair: ["yes", "no"],
+	  extra: ["twink", "blonde"],
    }
   }
 
