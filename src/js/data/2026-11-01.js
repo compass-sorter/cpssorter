@@ -583,7 +583,7 @@ dataSet[dataSetVersion].characterData = [
 
 	          {
   name: "Octobari Takoko",
-  img: "https://64.media.tumblr.com/47e57107b8ee12c9146fa5c7ccc5255a/b0cb3573a1b7fd0e-07/s400x600/aec7c7233e0244adc49d9451482ceac2c86f9bce.png",
+  img: "https://64.media.tumblr.com/18126bcd6da5e23deec3728e4b0aa0d8/b0cb3573a1b7fd0e-94/s400x600/8204390a80baaf7426f9f7b3f2226458ff320592.png",
   opts: {
     type: ["og"],
 	gender: ["fem"],
@@ -1191,7 +1191,7 @@ dataSet[dataSetVersion].characterData = [
 
 	          {
   name: "Ichihime",
-  img: "https://64.media.tumblr.com/47e57107b8ee12c9146fa5c7ccc5255a/b0cb3573a1b7fd0e-07/s400x600/aec7c7233e0244adc49d9451482ceac2c86f9bce.png",
+  img: "https://64.media.tumblr.com/a726bd1541c5104c7575c0d601e9cd9a/b0cb3573a1b7fd0e-f7/s400x600/4485305edf33e6668b2c0f86db17ce49567f3a85.png",
   opts: {
     type: ["co"],
 	gender: ["fem"],
@@ -1204,7 +1204,7 @@ dataSet[dataSetVersion].characterData = [
   
 	          {
   name: "Edward Elric",
-  img: "https://64.media.tumblr.com/47e57107b8ee12c9146fa5c7ccc5255a/b0cb3573a1b7fd0e-07/s400x600/aec7c7233e0244adc49d9451482ceac2c86f9bce.png",
+  img: "https://64.media.tumblr.com/ecef2e8462c02810618a5516a3041481/b0cb3573a1b7fd0e-69/s400x600/46b94690efdc5f4fa04eeed0f9944d6c4bbc3400.png",
   opts: {
     type: ["co"],
 	gender: ["men"],
